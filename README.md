@@ -11,9 +11,9 @@ I am passionate Full Stack Developer.As Beginner i worked on the projects on web
 - 👯 I’m looking to collaborate on real world projects.
 - 🤔 I’m looking for help with jobs & internship.
 
-  <p><img src="https://media.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy.gif" width="800" height:"400" /></p>
+  <div align="center"><img src="https://media.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy.gif" width="800" height:"400" /></div>
   
-  <p><img src="https://media.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif" /></p>
+  <p align="center"><img src="https://media.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif" /></p>
 
 ## Skills
 
@@ -70,7 +70,7 @@ I am passionate Full Stack Developer.As Beginner i worked on the projects on web
 <a href="" alt="github"><img src="https://www.svgrepo.com/show/331724/github-code-source.svg" width="150" height="40" /></a>
 
 # Portfolio Website:-
-<a href="" alt="portfolio"><img src="https://www.svgrepo.com/show/261816/blogger.svg" width="150" height="40" /></a>
+<a href="https://personal-portfolio-websites.web.app/" alt="portfolio"><img src="https://www.svgrepo.com/show/261816/blogger.svg" width="150" height="40" /></a>
 
  
 Thanks for Visiting My Profile😊
